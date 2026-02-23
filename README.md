@@ -1,7 +1,7 @@
 # Superstore Sales & Profit Performance Dashboard
 ## Dashboard Preview
 
-![Superstore Dashboard](Screenshot 2026-02-22 204556.png)
+<img src="Screenshot%202026-02-22%20204556.png" alt="Superstore Dashboard" width="900">
 
 ## Overview
 
